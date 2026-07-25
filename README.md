@@ -1,8 +1,6 @@
 # Data-Analysis-Dashboards
 An interactive Excel dashboard built on the **DataCo Supply Chain Dataset**, analyzing over **180,000 orders** across sales, shipping, customers, and products to uncover business insights on performance, delivery, and profitability.
 
-Dashboard Overview <https://github.com/dakxu/Data-Analysis-Dashboards/blob/main/Dashboard.png>
-
 ## 📊 Overview
 
 This project transforms a large, raw supply chain dataset into a clean, decision-ready dashboard using **PivotTables, PivotCharts, and formulas** in Excel — no external BI tool required.
@@ -17,6 +15,10 @@ The dashboard answers key business questions such as:
 ## 📁 Dataset source
 This project uses the **DataCo Smart Supply Chain for Big Data Analysis** dataset, originally published on 
 <https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis>
+
+## :camera: Dashboard Overview
+<img width="1871" height="715" alt="Dashboard" src="https://github.com/user-attachments/assets/c7f92494-6789-4abf-8ec1-812f618b2c24" />
+
 
 ## 🗂️ Workbook Structure
 
