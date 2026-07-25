@@ -44,14 +44,14 @@ The dashboard includes 15+ charts, such as:
 - A small number of **product categories (Fan Shop, Apparel, Footwear)** drive the majority of revenue.
 - **Consumer segment** customers contribute the largest share of sales compared to Corporate and Home Office.
 
-- ## 🛠️ Tools & Techniques Used
+## 🛠️ Tools & Techniques Used
 
 - Microsoft Excel
 - PivotTables & PivotCharts
 - Data cleaning and formatting
 - Dashboard design principles (layout, color coding, KPI callouts)
 
-- ## 🚀 How to Use
+## 🚀 How to Use
 
 1. Clone or download this repository.
 2. Open `Book1.xlsx` in Microsoft Excel.
