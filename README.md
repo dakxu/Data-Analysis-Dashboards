@@ -58,10 +58,9 @@ The dashboard includes 15+ charts, such as:
 3. Navigate to the **Dashboards** sheet to view the interactive dashboard.
 4. Use slicers/filters (if included) to explore data by year, region, or segment.
 
-
 ## 📌 Author
 
-*Daksh
+Daksh
 
 
 
