@@ -65,7 +65,7 @@ The dashboard includes 15+ charts, such as:
 
 ## 📌 Author
 
-Daksh
+Dakxu
 
 
 
