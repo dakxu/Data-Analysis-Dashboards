@@ -43,11 +43,13 @@ The dashboard includes 15+ charts, such as:
 - **Top 10 Products by Sales**
 
 ## 🧠 Key Insights
-
-- Sales peaked in **2015–2016** before declining in later years.
-- **Late deliveries** make up a significant share of total shipments, signaling a logistics bottleneck.
-- A small number of **product categories (Fan Shop, Apparel, Footwear)** drive the majority of revenue.
-- **Consumer segment** customers contribute the largest share of sales compared to Corporate and Home Office.
+- Sales were flat 2015–2017 (~$12M/yr each) — the apparent 2018 drop is a data artifact (dataset ends Jan 31, 2018), not a real decline.
+- 54.8% of shipments are late, driven by unrealistic SLAs — First Class (1-day promise, ~2-day actual) is late 95% of the time vs. 38% for Standard Class.
+- Fan Shop dominates revenue at $17.1M — more than Apparel, Golf, and Footwear combined.
+- Consumer segment drives 63% of revenue ($19.1M) vs. Corporate ($11.2M) and Home Office ($6.5M).
+- 18.7% of orders are unprofitable (–$3.88M total), though overall margin stays positive at 10.78%.
+- Discounting isn't the margin problem — discount rate shows near-zero correlation with profit ratio.
+- Europe and LATAM outsell USCA (US/Canada) in total revenue — $10.9M and $10.3M vs. $5.1M.
 
 ## 🛠️ Tools & Techniques Used
 
